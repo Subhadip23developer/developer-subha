@@ -1,4 +1,4 @@
 # developer-subha
 This is my first git repositories
 <br>
-Author - Subhadip Maity
+Author - Subhadip Maity{maitystore}
